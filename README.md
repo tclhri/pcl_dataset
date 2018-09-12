@@ -1,4 +1,4 @@
-This place is for sample database of point cloud used for training 3D Local Surface Descriptor. 
+This place is for sample database of point cloud used for training 3D Local Surface Descriptor. There are only six images(two images for each SD, qHD, HD resolution) for each object. (Full database have about 100~200 images for each object) 
 
 maintained by Ju-Hwan Seo (mail to: seojh1989@gmail.com)
 
